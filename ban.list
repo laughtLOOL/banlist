@@ -1,23 +1,23 @@
-DOMAIN-SUFFIX,liveupdate7.drivergenius.com,🛑 自定义
-DOMAIN,ipv4.gdt.qq.com,🛑 自定义
-DOMAIN-SUFFIX,oth.eve.mdt.qq.com,🛑 自定义
-DOMAIN,ts.qq.com,🛑 自定义
-DOMAIN-SUFFIX,mdt.qq.com,🛑 自定义
-DOMAIN,qqdata.ab.qq.com,🛑 自定义
-DOMAIN-KEYWORD,gtimg,🛑 自定义
-DOMAIN,qqtuan.qq.com,🛑 自定义
-DOMAIN,android.rqd.qq.com,🛑 自定义
-DOMAIN,dns.weixin.qq.com,🛑 自定义
-DOMAIN,event.toggle.qq.com,🛑 自定义
-#DOMAIN,play-lh.googleusercontent.com,🛑 自定义
-DOMAIN-SUFFIX,info.3g.qq.com,🛑 自定义
-DOMAIN,aeventlog.beacon.qq.com,🛑 自定义
-DOMAIN-SUFFIX,event.toggle.qq.com,🛑 自定义
-DOMAIN,ad-channel.wikawika.xyz,🛑 自定义
-DOMAIN,api-access.pangolin-sdk-toutiao-b.com,🛑 自定义
-DOMAIN,apm-misaka.biliapi.net,🛑 自定义
-DOMAIN,dataflow.biliapi.com,🛑 自定义
-DOMAIN,self.events.data.microsoft.com,🛑 自定义
-DOMAIN,appservice.qq.com,🛑 自定义
-DOMAIN,self.bkcommdata6.v.qq.com,🛑 自定义
-DOMAIN-SUFFIX,stats.jpush.cn,🛑 自定义
+DOMAIN-SUFFIX,liveupdate7.drivergenius.com
+DOMAIN,ipv4.gdt.qq.com
+DOMAIN-SUFFIX,oth.eve.mdt.qq.com
+DOMAIN,ts.qq.com
+DOMAIN-SUFFIX,mdt.qq.com
+DOMAIN,qqdata.ab.qq.com
+DOMAIN-KEYWORD,gtimg
+DOMAIN,qqtuan.qq.com
+DOMAIN,android.rqd.qq.com
+DOMAIN,dns.weixin.qq.com
+DOMAIN,event.toggle.qq.com
+#DOMAIN,play-lh.googleusercontent.com
+DOMAIN-SUFFIX,info.3g.qq.com
+DOMAIN,aeventlog.beacon.qq.com
+DOMAIN-SUFFIX,event.toggle.qq.com
+DOMAIN,ad-channel.wikawika.xyz
+DOMAIN,api-access.pangolin-sdk-toutiao-b.com
+DOMAIN,apm-misaka.biliapi.net
+DOMAIN,dataflow.biliapi.com
+DOMAIN,self.events.data.microsoft.com
+DOMAIN,appservice.qq.com
+DOMAIN,self.bkcommdata6.v.qq.com
+DOMAIN-SUFFIX,stats.jpush.cn
