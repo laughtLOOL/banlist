@@ -1,0 +1,53 @@
+DOMAIN,clash.razord.top,DIRECT#
+DOMAIN,yacd.haishan.me,DIRECT#
+RULE-SET,本地局域网,🏡 本地局域网#
+RULE-SET,ALocalAreaNetwork,🏡 本地局域网列表#
+RULE-SET,本地局域网地址,🏡 本地局域网列表#
+RULE-SET,直连软件名单,🎯 直连软件名单#
+DOMAIN-KEYWORD,mora,🇯🇵 日本节点#
+DOMAIN-KEYWORD,speedtest,🚁 速度测试#
+DOMAIN-KEYWORD,ooklaserver,🚁 速度测试#
+DOMAIN-KEYWORD,cdnst,🚁 速度测试#
+RULE-SET,Speedtest,🚁 速度测试#
+DOMAIN-SUFFIX,ooklaserver.net,🚁 速度测试#
+DOMAIN-SUFFIX,www.sbdm.net,🎯 全球直连#
+DOMAIN-SUFFIX,www.tsdm39.net,🎯 全球直连#
+DOMAIN,spclient.wg.spotify.com,🎯 全球直连#
+DOMAIN,audio-fa.scdn.co,🎯 全球直连#
+DOMAIN-KEYWORD,yhdmp,🎯 全球直连#
+DOMAIN-KEYWORD,crisp,🎯 全球直连#
+DOMAIN-SUFFIX,in.appcenter.ms,Ⓜ️ 微软服务#
+DOMAIN-SUFFIX,intel.com,Ⓜ️ 微软服务#
+IP-CIDR,151.101.76.133/32,🚀 节点选择#
+IP-CIDR,47.253.32.142/32,🚀 节点选择#
+IP-CIDR,223.109.148.129/32,🚀 节点选择#
+IP-CIDR,223.109.148.129/32,🚀 节点选择#
+
+DOMAIN-SUFFIX,prod-celltw.secb2b.com,🚀 节点选择#
+DOMAIN-SUFFIX,29761a.com,🚀 节点选择#
+#DOMAIN-KEYWORD,cloudflare,🎯 全球直连#
+DOMAIN-KEYWORD,.91p,🌍 国外媒体#
+DOMAIN-SUFFIX,hentai.tv,🌍 国外媒体#
+DOMAIN-SUFFIX,hentai.com,🌍 国外媒体#
+#DOMAIN-KEYWORD,htstreaming,🌍 国外媒体#
+DOMAIN-SUFFIX,iwara.tv,🌍 国外媒体#
+#DOMAIN-SUFFIX,erolabs.com,🌍 国外媒体#
+#DOMAIN-SUFFIX,ero-labs.com,🌍 国外媒体#
+DOMAIN-SUFFIX,tiar.app,🚀 节点选择#
+DOMAIN-SUFFIX,yiyo.io,🚀 节点选择#
+DOMAIN-KEYWORD,comic,🚀 节点选择#
+DOMAIN,onedrive.live.com,🚀 节点选择#
+DOMAIN,ws.infinitynewtab.com,🚀 节点选择#
+
+DOMAIN-KEYWORD,bigairport,🎯 全球直连#
+DOMAIN-KEYWORD,catpro-in,🎯 全球直连#
+DOMAIN-SUFFIX,bingxing.net,🎯 全球直连#
+DOMAIN-SUFFIX,yiyo2way.xyz,🎯 全球直连#
+DOMAIN-SUFFIX,newcome.xyz,🎯 全球直连#
+DOMAIN-SUFFIX,endhigh.xyz,🎯 全球直连#
+
+PROCESS-NAME,ToDesk.exe,🎯 全球直连#
+PROCESS-NAME,ToDesk_Service.exe,🎯 全球直连#
+PROCESS-NAME,ToDesk_Service.exe,🎯 全球直连#
+PROCESS-NAME,OneDrive.exe,🎯 全球直连#
+#PROCESS-NAME,svchost.exe,🎯 全球直连#
