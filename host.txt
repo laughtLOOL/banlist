@@ -2,3 +2,4 @@
 ||upos-sz-mirrorcos.bilivideo.com^
 ||upos-sz-staticcos.bilivideo.com^
 ||upos-tribe-static.bilivideo.com^
+||black.qimo.ink^
